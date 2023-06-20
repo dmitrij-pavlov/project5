@@ -1,0 +1,112 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#sword {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 460px 0 0 400px;
+	transform: rotate(165deg);
+
+}
+
+#katana {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 700px;
+	transform: rotate(210deg);
+}
+
+#blade {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 430px;
+}
+#saber{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 300px 0 0 735px;
+}
+#cartoon_sword{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 325px;
+}
+#mini_spear{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 360px 0 0 125px;
+}
+#long_sword{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 100px;
+}
+#knife{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 600px 0 0 70px;
+}
+#spear{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 625px 0 0 125px;
+}
+#axe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 330px;
+}
+#jagged_sword{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 180px 0 0 330px;
+}
+#scissors{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 480px 0 0 630px;
+}
+#double_axe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 570px;
+}
+#machete{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 610px 0 0 580px;
+}
+#stone_spear{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 610px 0 0 280px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
